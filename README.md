@@ -4,11 +4,14 @@
 教科书采用的是来自耶鲁的[《聆听音乐》第五版](https://www.amazon.cn/dp/B007TQNEYW)。
 
 # 参考资料
-- [耶鲁相关官网](https://oyc.yale.edu/music/musi-112/lecture-1)
+- [教材配套网站](http://www.cengage.com/cgi-wadsworth/course_products_wp.pl?fid=M20bI&product_isbn_issn=9780495189732)
 - [聆听音乐网易中文页面](http://open.163.com/special/listeningtomusic/)
 - [music crash course](http://www.musiccrashcourses.com/index.html)
 - [人人能创造](https://www.apple.com/cn/education/everyone-can-create/)
+- [古典音乐吧](http://tieba.baidu.com/f?kw=%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90&ie=utf-8&tab=good)
+- [古典音乐艺术联盟豆瓣小组](https://www.douban.com/group/Sh.C.M/)
 
 # changelog
+20190420 日日增加参考资料
 20190419 日日增加参考资料
 20190418 日日创建初稿
