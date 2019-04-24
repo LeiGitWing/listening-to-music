@@ -10,8 +10,10 @@
 - [人人能创造](https://www.apple.com/cn/education/everyone-can-create/)
 - [古典音乐吧](http://tieba.baidu.com/f?kw=%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90&ie=utf-8&tab=good)
 - [古典音乐艺术联盟豆瓣小组](https://www.douban.com/group/Sh.C.M/)
+- [音频应用 国内最专业的音乐制造论坛之一](http://www.audiobar.cn/)
 
 # changelog
+20190425 日日增加参考资料
 20190420 日日增加参考资料
 20190419 日日增加参考资料
 20190418 日日创建初稿
